@@ -3,12 +3,16 @@
     "id": 1,
     "title": "urun 1",
     "price": 10,
-    "image": "https://tulay.nl/wp-content/uploads/trastevere-pyrite-830-acrisol-300x300.jpg"
+    "image": "https://tulay.nl/wp-content/uploads/trastevere-pyrite-830-acrisol-300x300.jpg",
+    "shortDescription": "Stof voor Buitenkussens, TRASTEVERE VINO 833.",
+    "longDescription": "Stof voor Buitenkussens TRASTEVERE VINO 833 is leverbaar bij TULAY Stoffenwinkel Rotterdam."
   },
   {
     "id": 2,
     "title": "urun 2",
     "price": 30,
-    "image": "https://tulay.nl/wp-content/uploads/trastevere-pistacho-938-acrisol-300x300.jpg"
+    "image": "https://tulay.nl/wp-content/uploads/trastevere-pistacho-938-acrisol-300x300.jpg",
+    "shortDescription": "Stof voor Buitenkussens, TRASTEVERE VINO 833.",
+    "longDescription": "Stof voor Buitenkussens TRASTEVERE VINO 833 is leverbaar bij TULAY Stoffenwinkel Rotterdam."
   }
 ]

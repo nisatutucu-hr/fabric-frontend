@@ -1,5 +1,5 @@
 import Products from "../components/Products";
-import ProductDetail from "../components/ProductDetail";
+import ProductDetail from "../components/Products/ProductDetail";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./startup.css";
 
@@ -10,7 +10,7 @@ function App() {
         <Routes>
           <Route path="/products" element={<Products />} />
           <Route
-            path="/product-detail/:productId"
+            path="/products/product-detail/:productId"
             element={<ProductDetail />}
           />
         </Routes>

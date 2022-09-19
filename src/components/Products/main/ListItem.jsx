@@ -1,11 +1,11 @@
-import React from "react";
-import { useNavigate } from "react-router-dom";
+import React from 'react'
+import { useNavigate } from 'react-router-dom'
 
 export default function Item({ product }) {
-  let navigate = useNavigate();
+  let navigate = useNavigate()
   let getProductPage = (productId) => {
-    navigate(`/product-detail/${productId}`);
-  };
+    navigate(`/products/product-detail/${productId}`)
+  }
 
   return (
     <>
@@ -19,5 +19,5 @@ export default function Item({ product }) {
         </div>
       </div>
     </>
-  );
+  )
 }

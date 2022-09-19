@@ -1,0 +1,13 @@
+@import url('../style.css');
+
+.productDetail .price{
+    padding: 5vh 0px;
+}
+
+.productDetail .right{
+    padding-left: 4vw;
+}
+
+.productDetail .body{
+    padding-top: 4vh;
+}
